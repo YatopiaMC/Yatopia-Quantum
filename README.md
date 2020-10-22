@@ -34,5 +34,6 @@ The latest stable builds of Yatopia are always available over at our [downloads 
 ## Relase Notes
 Yatopia Quantum 0.2
 - Uses quantum accelerated machine learning to produce original memes to keep players entertained.
+
 Yatopia Quantum 0.1
 - Inital implmentation.
