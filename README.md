@@ -3,7 +3,7 @@
 <h1>Yatopia Quantum</h1>
 
 [![Discord](https://img.shields.io/discord/342814924310970398?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discord.io/YatopiaMC)
-[![API](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=API&up_color=green&up_message=online&url=http%3A%2F%2Fapi.yatopia.net%2F)](https://api.yatopia.net/v2/latestBuild?branch=ver/1.16.3)
+[![API](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=API&up_color=green&up_message=online&url=http%3A%2F%2Fapi.yatopia.net%2F)](https://www.youtube.com/watch?v=ub82Xb1C8os)
 <h3>The Next Generation of Minecraft Server software built using Qiskit for use on IBM Quantum Compute Network.</h3>
 </div>
 
@@ -29,7 +29,7 @@ Features Inclue:
 - All other APIs known to mankind using Quantum API infernce.
 
 ## Try it out 
-The latest stable builds of Yatopia are always available over at our [downloads page](https://www.youtube.com/watch?v=ub82Xb1C8os). You can also download the latest development build [here](https://api.yatopia.net/v2/latestBuild/download?branch=ver/1.16.3).
+The latest stable builds of Yatopia are always available over at our [downloads page](https://www.youtube.com/watch?v=ub82Xb1C8os). You can also download the latest development build [here](https://www.youtube.com/watch?v=ub82Xb1C8os).
 
 ## Relase Notes
 Yatopia Quantum 0.2
